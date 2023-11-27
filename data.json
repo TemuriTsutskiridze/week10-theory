@@ -1,0 +1,43 @@
+{
+  "people": [
+    {
+      "id": 4,
+      "name": "nika",
+      "age": 34
+    },
+    {
+      "id": 5,
+      "name": "maka",
+      "age": 56
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "name": "temo",
+      "age": 22,
+      "id": 8
+    },
+    {
+      "name": "zuka",
+      "age": 22,
+      "id": 9
+    },
+    {
+      "name": "zuka",
+      "age": 22,
+      "id": 10
+    },
+    {
+      "name": "zuka",
+      "age": 22,
+      "id": 11
+    },
+    {
+      "id": 12
+    }
+  ]
+}
